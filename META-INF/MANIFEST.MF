@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Class-path: ../lib/swt.jar ../lib/antlr-2.7.5.jar ../lib/arq-extra.jar
+  ../lib/arq.jar ../lib/commons-logging-1.1.jar ../lib/concurrent.jar 
+ ../lib/icu4j_3_4.jar ../lib/iri.jar ../lib/jena.jar ../lib/jenatest.j
+ ar ../lib/json.jar ../lib/junit.jar ../lib/log4j-1.2.12.jar ../lib/lu
+ cene-core-2.0.0.jar ../lib/stax-api-1.0.jar ../lib/wstx-asl-3.0.0.jar
+  ../lib/xercesImpl.jar ../lib/xml-apis.jar ../lib/
+Created-By: 1.5.0_07 (Apple Computer, Inc.)
+Main-Class: edu.lehigh.mab305.swproj.GUI.ConfAnnounceMain
+
